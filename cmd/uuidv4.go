@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-	"uuid-generator/generator"
+	"github.com/elysiaxx/uuid-generator/generator"
 
 	"github.com/spf13/cobra"
 )

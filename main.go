@@ -1,8 +1,6 @@
 package main
 
-import (
-	"uuid-generator/cmd"
-)
+import "github.com/elysiaxx/uuid-generator/cmd"
 
 func main() {
 	cmd.Execute()

@@ -3,7 +3,7 @@ package cmd_test
 import (
 	"regexp"
 	"testing"
-	"uuid-generator/cmd"
+	"github.com/elysiaxx/uuid-generator/cmd"
 )
 
 // TestVersion check whether version command have returned the correct version or not.

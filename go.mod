@@ -1,4 +1,4 @@
-module uuid-generator
+module github.com/elysiaxx/uuid-generator
 
 go 1.23.2
 

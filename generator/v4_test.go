@@ -3,7 +3,7 @@ package generator_test
 import (
 	"regexp"
 	"testing"
-	"uuid-generator/generator"
+	"github.com/elysiaxx/uuid-generator/generator"
 )
 
 func TestUUID(t *testing.T) {
